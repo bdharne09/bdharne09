@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**, **Salesforce**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, DSA**
 
 - 📫 How to reach me **bhushan.dharne09@gmail.com**
 
